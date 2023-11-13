@@ -34,8 +34,11 @@ Having a member of HelloFresh team being a mod and promoting new products and ma
 
 HelloFresh is a LIFESTYLE and there is large scope for it.
 KEY INGREDIENTS BEING
-#-PRICEPOINT
-#-CONVENIENCE
-#-VARIETY
+
+-PRICEPOINT
+
+-CONVENIENCE
+
+-VARIETY
 
 According to the data by the year 2030, this industry will be at 64.27 Billion Dollars and we have the resources to make it happen.
